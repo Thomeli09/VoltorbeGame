@@ -39,6 +39,7 @@
     <Compile Include="src\voltorbe_game\simulation\VoltorbeGameLib.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="docs\" />
     <Folder Include="examples\" />
     <Folder Include="src\" />
     <Folder Include="src\voltorbe_game\" />
